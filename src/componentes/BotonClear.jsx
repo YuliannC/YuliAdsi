@@ -1,5 +1,5 @@
 import React from 'react';
-import '../BotonClear.css';
+
 
 const BotonClear = (props) => (
   <div className='boton-clear' onClick={props.manejarClear}>

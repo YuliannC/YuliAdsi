@@ -30,7 +30,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
     <Operacion nombre="x" />
     <Operacion nombre="-" />
     <Operacion nombre="+" />
-    <Boton nombre="=" />
+    <Operacion nombre="=" />
     </div>
     
   </React.StrictMode>,
